@@ -3,7 +3,7 @@
 
 
 
-let timer=8;
+let timer=60;
 
 
 function runTimer(){

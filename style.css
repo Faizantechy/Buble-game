@@ -98,3 +98,42 @@ body,html{
     background-color: rgb(48, 112, 48);
     cursor: pointer;
 }
+
+
+
+@media screen and (max-width:1101px){
+
+    
+#ptop{
+
+   flex-direction: column;
+   gap: 15px;
+
+   height:250px;
+   padding: 1rem;
+   
+}
+.box{
+
+    width: 80px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.elem h2{
+
+    font-size: 2rem;
+}
+
+.timer{
+
+    margin-right: 2rem;
+}
+
+.score{
+    margin-right: 1.50rem;
+
+}
+
+
+}
